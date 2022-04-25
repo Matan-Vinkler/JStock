@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507509471121",
+    "firebase_url": "https://jstock-da140-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "jstock-da140",
+    "storage_bucket": "jstock-da140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507509471121:android:d5f8b4bf577c8ea6a20c30",
+        "android_client_info": {
+          "package_name": "com.example.jstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507509471121-pivgmi6u21hj21qpmi9sjaibgtvfcse5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jstock",
+            "certificate_hash": "03118165f370c96bd9624375173812759f4a1cd2"
+          }
+        },
+        {
+          "client_id": "507509471121-ppqnov1r1qrjom5n46vi8cea210od2fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL_lfYerU6PZnqVSHEH3o8Lbv1SrzQpco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507509471121-ppqnov1r1qrjom5n46vi8cea210od2fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
